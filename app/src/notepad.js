@@ -21,16 +21,25 @@ class Notepad extends Component{
     this.onChange(RichUtils.toggleInlineStyle(this.state.editorState, 'UNDERLINE'))
   }
 
+  onPress = (e) => {
+    var keyCode = e.which || e.keyCode;
+    if(keyCode == 46){
+      console.log(this.state.editorState.getCurrentContent().getPlainText());
+    }
+  }
+
   render(){
     return (
-      <div>
+      <div onKeyPress={this.onPress}>
         <button className='button' onClick={this.onItalicClick.bind(this)}>I</button>
         <button className='button' onClick={this.onBoldClick.bind(this)}>B</button>
         <button className='button' onClick={this.onUnderClick.bind(this)}>U</button>
 
         <Editor
           editorState={this.state.editorState}
-          onChange={this.onChange} />
+          onChange={this.onChange}
+
+        />
       </div>
 
     );
