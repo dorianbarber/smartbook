@@ -30,3 +30,9 @@
     transform: rotate(360deg);
   }
 }
+
+rectangle: {
+  width: 100*2;
+  height: 100;
+  backgroundColor: "blue";
+}
