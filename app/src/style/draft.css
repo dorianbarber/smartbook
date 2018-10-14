@@ -1,5 +1,6 @@
 .DraftEditor-editorContainer, .DraftEditor-root, .public-DraftEditor-content{
-     height:500px;
+     height:600px;
+     width: 750px;
      text-align:initial
 }
  .public-DraftEditor-content[contenteditable=true]{
@@ -168,7 +169,7 @@
 
 .button {
   background-color: #2A5958;
-    border: none;
+    border-color: black;
     border-radius: 4px;
     color: white;
     padding: 15px 32px;
@@ -176,4 +177,8 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+}
+
+.button:hover{
+    background-color: #428D85;
 }
