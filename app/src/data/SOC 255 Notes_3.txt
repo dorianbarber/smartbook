@@ -1,0 +1,100 @@
+ctors serve as starting points whose main function is to point the direction to more proximal risk factors
+      * sharp issue with both of these characterizations
+* Contextualizing Risk Factors
+   * use an interpretive framework to understand why people come to be exposed to risk or protective factors
+   * determine the social conditions under which individual risk factors are related to disease
+   * while the current approach to the problem focuses on the individual, it can readily be seen that economic and political forces shape individuals' exposure to this risk
+   * efforts to reduce risk by changing behavior may be hopelessly ineffective if there is no clear understanding of the process that leads to exposure
+* Fundamental Causes
+   * medical sociologists and social epidemiologists need to take as their task the identification and thorough consideration of social conditions that are what we term "fundamental causes" of disease
+   * because a fundamental cause involves access to broadly serviceable resources, it influences (1) multiple risk factors and (2) multiple disease outcomes
+   * if one genuinely wants to alter the effects of a fundamental cause, one must address the fundamental cause itself
+   * medical sociologists and social epidemiologists need to be careful in interpreting and communicating the meaning of research involving social factors, intervening mechanisms, and disease
+   * to understand associations between fundamental causes and disease, medical sociologists need to examine the broader determinants of the resources that fundamental causes entail
+* Policy Implications
+   *  "personal policy" changes, individual changes
+      * without understanding the social conditions that expose people to individually-based risk factors, interventions will fail more often than they should
+      * some social conditions are fundamental causes of disease and as such cannot be effectively addressed by re-adjusting the individually-based mechanisms that appear to link them to disease in a given context
+   * three general criteria that policymakers should use in evaluating whether to commit funds to a proposed health intervention
+      * consistent with the idea of contextualizing risk factors, policymakers should require that all interventions seeking to change individual risk profiles contain an analysis of factors that put people at risk of risks
+      * consistent with the concept of fundamental causes, health policymakers should consider whether a proposed intervention will have an impact on just one disease or whether, because of its influence on a fundamental cause, it will affect many diseases
+      * health policymakers concerned with broad social conditions as causes of disease should regard with skepticism interventions that focus only on intervening variables but claim to address the broader social condition
+
+
+
+
+
+
+Refugee and Immigrant Health: Ch. 1
+* Intro
+   * immigrants and refugees bring diverse epidemiological profiles based on different environments and of diseases 
+* Cultural Competence
+   * the ability to perform and obtain positive clinical outcomes in cross-cultural encounters
+      * generic CC is knowledge and skills applicable to any patient
+      * specific CC is knowledge and skills applicable to patients and communities from specific cultural backgrounds
+   * cultural misunderstandings can lead to misdiagnosis
+   * USE CULTURAL RELATIVISM: different beliefs and practices are neither inferior or more correct than your own 
+* Decision-Making and Help-Seeking
+   * determinants of decision-making and help-seeking related to illness, etc.
+      * attitudes, beliefs, pesronal characteristics (SES)
+      * attitudes, beliefs, and characterisitics of one’s culture, social networks
+      * past and present personal and social network experience in health or illness
+      * past and present experience in seeking help
+      * characteristics and competencies of healthcare systems and individuals within the systems - “community of solution” as they interact w/ individuals and populations
+* Complementary and Alternative Medicine
+   * ethnomedicine: beliefs and practices relating to disease which are the products of indigenous cultural development and aren’t explicitly derived from modern med
+      * CAM: complementary and alternative medicine
+* Alternative Medical Systems
+   * alternative medical systems: homeopathic medicine and naturopathic medicine
+* Mind-Body Interventions
+   * uses a variety of techniques designed to enhance the mind’s capacity to affect bodily function and symptoms
+      * ex: meditation, prayer, etc.
+* Biologically Based Therapies
+   * use substances found in nature, such as herbs, foods, and vitamins
+      * ex: herbal products, dietary supplements
+* Manipulative and Body-Based Methods
+   * use of energy fields in the body that are manipulated by the practitioner
+* Energy Therapies
+   * CAM emphasizes addressing proximal, immediate causes of illness, distal causation
+   * prevention of disease important to CAM
+   * emphasizes holiness or dealing w/ all aspects of patient’s life
+   * CAM, wants to get to WHO’s definition of health: state of complete physical, mental, and social well-being and not just absence of disease or infirmity
+   * CAM staff, “gatekeepers” for public health intervention
+* Culture-Bound Syndromes
+   * CBS, denotes recurrent, locality, specific patterns of aberrant behavior and troubling experience that may be linked to a particular DSM-IV diagnostic
+* Culture and the Life Cycle
+   * life cycle course provides a template from which to view health and illness cross-culturally
+* Pregnancy and Childbirth
+   * culture can have a profound effect on the health of an unborn child
+   * childbirth in the West is seen as more medical than as a human process
+* Infancy and Childhood
+   * Third world, “social birth” when membership in the society is formalized
+   * childcare given to older siblings bc large families
+   * all cultures have some way to demarcate social transition from childhood to adulthood
+   * rites of passage surrounding puberty
+      * separation, transition, incorporation
+* Menstruation and Menopause
+   * women in non-Western societies w/o access to birth control menstruate less due to frequent pregnancies and length breastfeeding
+* End of Life
+   * rituals during death and dying are essential for human societies to deal w/ loss and need to be respected by host institutions to which refugees and immigrants interact
+Refugee and Immigrant Health: Ch. 2
+* Immigrant Types: Economic Immigrants
+   * those who want to pursue a better economic opportunity
+   * immigrant visas: temporary residence
+   * nonimmigrant visas: permanent residence
+* Immigrant Types: Refugees
+   * any person outside any country of such person’s nationality, who is unwilling or unable to return, bc of persecution or well-founded fear of persecution on account of race, religion, nationality, membership, political opinion
+   * pushed instead of pulled for immigration
+      * some integrate into their first asylum country, but rare
+         * more often, when displaced numbers are too large, humanitarian relief orgs come and create refugee camps
+      * repatriation of refugees WHEN conditions change
+      * resettlement to a third country, or secondary asylum
+   * once the refugee flees, three different “durable solutions”
+   * Resettlement
+      * Same resettlement policy goal: encouragement of assimilation and economic self-sufficiency 
+      * Volag monies ad programs aren’t sufficient to ensure full assimilation for refugees
+      * Diversity within refugee groups: first groups more privileged than second waves
+* Immigrant Types: Asylum-Seekers and Asylees
+   * an individual already in a Western country who is in the process of petitioning for permission to remain permanently bc of a claim of persecution in the country of origin
+   * if denied, can be deported
+* Victims of Trafficking (V
