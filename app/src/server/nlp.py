@@ -3,6 +3,7 @@ import re
 import nltk
 from stop_words import get_stop_words
 from operator import itemgetter
+from stemming.porter2 import stem
 
 
 def read_files(folder):
@@ -46,7 +47,11 @@ def find_top_doc(word, d):
     for key in d:
         filtered_text = preprocess(d[key])
         filtered_length = len(filtered_text)
-        rel_freq = (filtered_text.count(word.lower()))/filtered_length
+        #rel_freq = (filtered_text.count(stem(word.lower())))/filtered_length
+        cnt = 0
+        for x in re.finditer(stem(word.lower()), ' '.join(filtered_text)):
+            cnt += 1
+        rel_freq = cnt/filtered_length
         if rel_freq > max_freq:
             max_freq = rel_freq
             top_doc = key
@@ -78,7 +83,7 @@ def preprocess(block):
     stop_words = get_stop_words('english')
     noPunc = re.sub('[^a-zA-Z]',' ', block.lower())
     wlist = noPunc.split()
-    filtered_words = [w.lower() for w in wlist if w not in stop_words]
+    filtered_words = [stem(w.lower()) for w in wlist if w not in stop_words]
     return filtered_words
 
 def initializeDict():
