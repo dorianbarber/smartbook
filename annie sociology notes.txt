@@ -1,0 +1,307 @@
+﻿9/19
+Key questions: 
+Are determinants of health comparable across national origin subgroups?
+Are determinants of immigrant health comparable to the native born?
+How does the immigration experience affect assimilation?
+        Context in sending country, context in receiving country (welcome, hostile)
+Is education really the great equalizer given that education abroad doesn’t often translate to the US
+
+
+Theories on immigrant assimilation: 
+Health is just one of many assimilation outcomes
+3 key factors determine degree and ease of assimilation: 
+1. Individual traits (education, income skills, language)
+2. Social environment in sending and receiving country(government policies, attitude of native population, presence of co-ethics--could help immigrants by providing networks or could keep immigrants isolated, could hurt by preventing immigrants from learning english)
+3. Family structure: can be harmful to immigrant women because it inhibits individual employment, can be positive and negative, can affect education
+Background: us pop size=328m, 13.5% immigrant, top 3 origins: Mexico, India, China
+
+
+Immigrant health: 
+1. Populations from more diverse world regions, not just europe
+2. On average, they appear to arrive healthier than US born:
+        Health selection, lifestyle(diet, alcohol, exercising), cultural buffering(family structure helps protect against stress)
+1. On average, lose health advantage over time:
+        Stress of racism and discrimination, loss of protective factors like family support
+, increased risk taking behaviors(poor diet, health habits)
+1. Patterns vary across immigrant groups
+
+
+Problems with research questions: morbidity (cultural bias in self reports--many immigrants don’t go to the doctor often before arriving or have access, other translation problems), mortality (salmon hypothesis), changing reference group (immigrants begin comparing themselves to other americans)
+
+
+Week 4 readings: 
+Hamilton 
+Health Assimilation among hispanic immigrants: the impact of ignoring arrival-cohort effects
+-shows that health of hispanic immigrants varies by arrival cohort and US tenure for immigrants
+-time spent in the US is associated with health decline in Hispanic immigrants especially Mexico
+-more pronounced arrival-cohort effects for women
+-hispanic immigrants have infant health profiles and mortality rates that are similar to whites, despite having lower ses, advantage diminishes over time (does it put hispanics on the same level as people of their ses? Does their ses increase/decrease over time?)
+-explanations for healthy immigrant effect: selective migration, cultural buffering(better cultural habits: less smoking, alcohol, drugs)
+-gender differences: bmi of female hispanic immigrants converge to those of us born counterparts in 10 years, vs 15 for males, men may be more positively selected for health for job purposes
+        -women may be more susceptible to acculturation due to gender roles
+-effect of epidemiological transition in sending country: increased obesity in home country-->later immigrants are obese/have other health problems
+-destination country: changing immigration policy, like more restrictions lead to different immigrant cohort
+-results: immigrant men in 1980 had lower health advantage over native born compared to immigrant men in 2011 who had a higher advantage
+-arrival cohort: people arriving at different points in time have different circumstances in origin and host country
+ -”For example, many Latin American countries are rapidly advancing through the epidemiological transition. A number of these nations are facing a double epidemiologic burden where they have not yet eradicated infectious diseases but are also simultaneously faced with increasing rates of chronic illnesses (Brenes-Camacho and Rosero-Bixby 2008; Palloni et al. 2006). This is related to the nutrition transition that Latin American countries have undergone, whereby as malnutrition decreased, obesity rapidly increased, and this has led to increases in related morbidities, such as diabetes and high cholesterol”
+- “We find that omitting arrival-cohort controls from models of immigrant health assimilation results in overestimates of the degree of downward health assimilation experienced by immigrants. We also find that the initial health stocks of earlier immigrant arrival cohorts may have been worse relative to those of more recent immigrants. These findings suggest that even though acculturation still plays an important role in explaining the health trajectories of immigrants, the impact of tenure in the United States may be overstated when arrival-cohort health differences among immigrants are not taken into account.”
+
+
+
+
+What exactly are arrival cohort controls? 
+
+
+Read/Borelli: Gender and national origin differences in healthcare utilization among US immigrants from Mexico, China, and India
+
+
+-Main question: do barriers to utilization differ among these three immigrant groups?
+-chinese immigrants less likely than mexican and indian to have seen a doctor in the past year due to lack of health insurance
+-gender difference significant for mexican immigrants (not for other immigrants) closes over longer time spent in country
+-women more likely than men to see doctor, despite lower SES and resources
+* Men conform to expectations of masculinity, breadwinners 
+* Women are culturally more connected to health care, supposed to take care of kids, reproduction. Women are often more connected to surrounding community because men are working 
+-gender difference is larger among immigrants who can’t speak english
+
+
+Zhong/Batalova: Mexican Immigrants in US: 
+-2008-2012: mexican imm populations in LA, Chicago +Houston accounted for 26% of all Mexican imm
+-MI less likely than other imm to be proficient in english and speak at home (4% vs 16% of all imm)
+-lower educational attainment than other imm and native population, younger than overall imm population but older than native, more likely to be working than imm and native, lower income than other imm and native ($36,700 in 2013 compared to 48k for immigrants and 53k for natives), higher poverty rate
+-more likely to be uninsured (55%) than imm and native
+-22 bil of remittances sent to Mexico 
+
+
+
+
+
+
+
+
+
+
+9/26 lecture: 
+Hispanic: about 18% of US population (projected to be 25% by 2045),  about 25% of entire population has some amount of hispanic origin
+Out of hispanics: 63% mexican, 9% puerto rican, 8% central american etc
+Not all of hispanics are immigrants
+
+
+Out of Mexican population: ⅔ are US born, ⅓ foreign born
+Out of foreign born Mexican population: ½ undocumented
+Mexican unauthorized immigrant population peaked around 2007, then dipped due to economic recession
+
+
+US immigration policies: 
+Bracero Program (1942-1964) manual worker program that paid 30 cents/hr
+1965 Immigration and Nationality Act-imposed numerical limits on Mexican immigrants, but had family reunification component
+IRCA (1968)-gave legal status to undocumented immigrants to gain legal status, but strengthened border security for future illegal crossings
+
+
+Result of historical policies: 
+        High employment rates BUT
+        Low english proficiency, low education, low social status, high poverty rates
+
+
+Challenges that affect Health and Access to care for hispanics:
+        Language other english spoken at home, less than high school education, food insecure household (poor nutrition), reporting living in an unsafe neighborhood (less physical activity, resources) 
+
+
+Median income: black (36,000), hispanic (43,000), all races (53,000), white (63,000), asian (70,000)
+
+
+Poverty: 
+Poverty threshold based on pre-tax income, doesn’t vary geographically
+One person under 65: 12,000
+One person over 65: 11,367
+Single parent with one child: 16,337, Single parent with two children: 19,000
+% in poverty: overall 13.2%, 9.1% of  whites, 24.1% of blacks, 21.4% of hispanics
+
+
+Wealth (all assets-debts): for every $1 whites have, latinos have 7 cents, blacks have 6
+
+
+Mechanisms linking low status to health: Stress
+1. Worse economic conditions, less rewarding jobs, less likely to be working full time
+2. Fewer social psychological resources: less sense of control over life and health, lower levels of social support
+3. Worse health behaviors: more smoking, less exercise, fewer health check ups 
+How Stress affects the body: 
+Cortisol and epinephrine
+Four conditions that lead to allostatic load: 
+1. Repeated frequency of stress responses to multiple novel stressors, leads to permanently high cortisol and epinephrine 
+2. Failure to habituate to repeated stressors of the same kind
+3. Failure to turn off each stress response in a timely manner due to delayed shut down
+4. Inadequate response that leads to compensatory hyperactivity of other mediators
+Allostasis: what you want
+
+
+Week 5 Readings: 
+David/Collins: Differing Birth weight among infants of US born blacks, african-born blacks, and us born whites
+
+
+Birth weights of infants of black women are lower than those of white women. 
+Results: incidence of low birth weight (<2500g) was 13.2% among US born black women, 7.1% among African born black women, 4.3% among US born white women 
+
+
+For low risk women (20-39 yrs, 12 yrs of education, etc): 7.5% among US born black women, 3.6% among african born women, 2.4% among white women
+
+
+Conclusion: birth weight patterns of african-born black women more similar to Us born white women than Us born black women
+
+
+ If genetics played a prominent part in determining black–white differences in birth weight, the infants of the African-born black women should have had lower birth weights than those of the U.S.-born black women. We found the opposite: regardless of socioeconomic status, the infants of black women born in Africa weighed more than the infants of comparable black women born in the United States. Therefore, genetic determinants is not supported
+
+
+Allostatic Load in Foreign-Born and US-Born Blacks: Evidence From the 2001–2010 National Health and Nutrition Examination Survey Lauren A. Doamekpor, PhD, MPH, and Gniesha Y. Dinwiddie, PhD
+Allostatic load: cumulative impact of psychological responses to chronic stressors that continuously activate hormonal responses, thought to increase risk for physical and mental disorders
+--offers a reason for health decline among immigrants over time
+--smoking/heavy drinking: shown to have a stress-buffering role among blacks, protecting against mental health vulnerability but bad for physical health
+Conclusion: healthy immigrant effect or health paradox does exist for Black immigrants but dissipates as they adapt to the US cultural context. This health deterioration may be explained by overexposure to race-related stress and racism, which are more powerful predictors of health declines than are diet and adverse health behaviors.
+
+
+Health Among Black Children by Maternal and Child Nativity Arun S. Hendi, MA, Neil K. Mehta, PhD, and Irma T. Elo, PhD, MPA
+Objectives. We examined 5 health outcomes among Black children born to US-born and foreign-born mothers and whether differences by mother’s region of birth could be explained by maternal duration of US residence, child’s place of birth, and familial sociodemographic characteristics
+Results. Children of foreign-born mothers were healthier across all 5 outcomes than were children of US-born mothers. Among children of foreign-born mothers, US-born children performed worse on all health outcomes than children born abroad. African-origin children had the most favorable health profile, more than children of Latin American or caribbean born mothers. Longer duration of US residence among foreign-born mothers was associated with poorer child health. Maternal educational attainment and other sociodemographic characteristics did little to explain these differences.
+Selection effect: healthy african immigrants more likely to immigrate. African mothers with higher education attainment more likely to immigrate, whereas latin american/caribbean mothers don’t often have high educational attainement
+
+
+Could not found a factor to explain the difference in health outcomes among black children of US and foreign born mothers (not family income, marital status, or maternal education)
+Children of african mothers have better health outcomes than children of latin american/caribbean mothers.
+
+
+Cultural buffering: something people bring from their place of origin to help them adjust to new place (like healthy diet, family ties)
+
+
+Discrimination and Health Nancy Krieger
+After controlling for poverty: adjusting for poverty substantially reduces excess risk of African Americans for low birth weight in comparison for whites
+
+
+Racial Context, Black Immigration and the U.S. Black/White Health Disparity Jen’nan Ghazal Read
+-questions: is the black immigrant health advantage uniform across groups or does it vary by region of birth? Is their advantage due to selectivity, culture, socioeconomic status, or racism?
+-conclusion: racial context of origin matters (the experience of being a racial minority or majority)
+-region of origin affects health through: exposure to stressful life events, position in stratification system (social position), racial identity formation, reference group (for us blacks, the reference is in the US whereas for immigrant blacks, the reference location is region of origin
+-Compared to all other U.S. major racial groups, blacks have the highest rates of morbidity and mortality for almost all diseases, highest disability rates, shortest life expectancies, least access to health care, and startlingly low rates of the use of modern technology in their treatment 
+-the gap between blacks and whites has actually widened in the past century
+-foreign born black immigrant “advantage” varies by region of birth and reference category
+Ex: superior health of south american blacks compared to west indian, poorer health of european blacks (due to being a minority in europe and dealing with racism)
+-health advantage will not survive across generations in the US because black immigrants from all immigrants resemble US born blacks
+-possible cultural bias: africans, south americans, west indian immigrants may give a more positive interpretation of their health than european or US born blacks
+
+
+--african born children of african born mothers have better health outcomes than us born blacks or latin american born children of latin american born mothers
+
+
+10/3 lecture: 
+1. Evidence of black and white health disparities (not just immigrants, but all blacks)
+-black white differences in mortality and morbidity stable overtime, though overall population health has gotten better
+-blacks have shorter life expectancies, higher disability rates, less access to health care
+-black male life expectancy at birth 1960-2016: 60, 72.5 yrs
+-white female life expectancy at birth 1960-2016: 76, 81.4
+-infant mortality: often predicted by premature birth: less than 37 wks, and low birth weight: less than 5.5 pounds. Also linked to cognitive delay in childhood, school failure, cancer and heart problems in adulthood
+        -per 1000 births, black women have sightly over double infant mortality rates (grew from twice as high in 1960 to almost 3 times in 2016). 
+
+
+1. Major explanations for disparities( genetics, social position, discrimination and racism)
+-genetics is largely discounted
+-social position (buffers against stress)
+-discrimination: process by which members of a group are treated differently on the basis of belonging to that group
+-two types of discrimination: de jure (by law), de facto (in reality--majority)
+-discrimination triggers feelings of: over-scrutinized, overlooked, misunderstood, disrespected
+-american indian reported feeling the most everyday racism, next blacks, then hispanics
+1. Role of stress
+-elevated stress accumulates over time-->poor health outcomes
+Importance of black immigrants for us health disparities: 
+1. Tripled in size (3% to 9% from 1980 to 2016), Projected to be 16.5% in 2060
+2. Immigrants from diverse origins: 50% from Caribbean, 39% from Africa, different visa categories (different screening levels) translates into diverse health outcomes
+3. Black immigrants share same racial status as black Americans but experience significantly better health
+4. Mary Water’s research on Caribbean immigrants in NYC: more likely to work, work more hours and have higher incomes than US born blacks. Immigrants with accents allow them to be perceived differently than US born blacks. Over time, advantages erode, 2nd generation immigrants look identical to US black. 
+Exam Review: 
+
+
+Format: short answer (4-5 questions)
+Content: Readings(all), when referring to readings in your answers, use either author’s name or title of the book
+--at least 2 readings per question, must have at least 8 on whole exam
+Film: unnatural causes--mushroom farmer
+
+
+Substance: 
+How do we define and measure health?
+Why do sociologists study health? Sociological approaches vs other disciplines?
+--we study things that are more distant
+Historical patterns in Us immigration
+--changes in size and national origin composition before/after 1965
+--causes for change? Contexts and policies in origin and in US
+Fundamental causes of disease (Link and Phelan)
+--three characteristics of social class, a “fundamental cause of disease”
+
+
+1. Involves access to resources than can be used to avoid risk or minimize the effects of disease (safe neighborhoods, health insurance)
+2. Influences multiple risk factors and disease outcomes (exposure to toxins, lack of access to nutritional meals→ obesity, high blood pressure, diabetes, heart disease)
+3. Maintains an association even when intervening mechanisms change (ex: changing someone’s neighborhood won’t improve health outcome bc it’s not fundamental)
+--how it relates to immigrants (hispanic and black)
+Patterns in immigrant health on arrival and over time?
+--Explanations for patterns on arrival and over time (mechanisms)
+--shortcomings in explanations?
+What do we know about Hispanic immigrants?
+--size and major national origins
+--size of undocumented population
+What do we know about black immigrants?
+--Evidence of black/white disparities (not just immigrants)
+--explanations for racial disparities
+--size and major national origins of immigrants
+--Why they matter for US health disparities
+
+
+1. Use powerpoint to identify patterns(statistics) for each week’s topic
+2. Know 2-3 statistics for each topic
+3. Know major explanations for patterns
+
+
+Week 7 readings: 
+
+
+Associations Between Racial Discrimination, Limited English Proficiency, and Health-Related Quality of Life Among 6 Asian Ethnic Groups in California Gilbert C. Gee, PhD, and Ninez Ponce, PhD
+
+
+-barriers to asian american well-being and risk factors for illness/quality of life: racial discrimination and limited english proficiency
+-both can compromise quality of care by damaging trust between patient and provider
+-also associated with more fundmanetal determinants of health like restricted employment
+-both contribute to stress/allostatic load
+Results: 
+-vietnamese americans reported lowest quality of life and South Asians reported the highest, also vietnamese reported most activity limitation days
+-52% of Vietnamese, 47% of Koreans, and 34% of Chinese reported limited english proficiency, only 3% of South Asians, 5% of Filipinos, 6% of Japanese did
+-filipinos most likely to have reported discrimination followed by Japanese, CHinese, Koreans, South Asians, vietnamese
+-found that discrimination and limited english proficiency associated with decreased health quality among asian americans in CA, largest gap found in South Asians
+
+
+Asian Americans and disproportionate exposure to carcinogenic hazardous air pollutants: A national study Sara E. Grineski Professor of Sociology * , Timothy W. Collins Professor of Geography, Danielle X. Morales Postdoctoral Fellow
+
+
+-Chinese and Korean Americans experienced highest mean cancer risk from HAPS (hazardous air pollutants) followed by Blacks (chinese highest)
+-causes: long history of chinese settlement, historical discrimination means Chinatowns are often in polluted central city
+-koreans tend to settle in poor, central city neighborhoods to operate buisnesses
+-overall Asians just below blacks in exposure to HAPs
+-risk for south asians due to work in science/engineering sectors, living near industrial plants
+-below blacks include southeast asians and south asians, all above Hispanics
+-even though cancer is leading cause of death for Asian Americans, doctors recommend preventative screenings less due to model minority 
+-asian americans feel stress due to “model minority” and discrimination
+
+
+The Social Meanings of Traditional Chinese Medicine: Elderly Chinese Immigrants’ Health Practice in the United States Haiying Kong · Elaine Hsieh
+
+
+-encorporating TCM allows them to perform and reaffirm their cultural identity as Chinese, maintain their moral status and fullfill their social roles, and pass down health knowledge and cultural heritage
+-performing and reaffirming cultural identity: TCM=direct reflection of cultural identity
+-maintaining moral status and fulfilling social roles: want to be caregivers and caretakers, don’t want to burden others to ask for western medicine, keeping up with work when illness occurs
+-passing down health knowledge and cultural heritage: provide cultural education with minimal interference into adult children’s life
+-38.3% of adult population in US has utilized some form of Complementary and ALternative Medicine (CAM) in past year
+-Chinese Americans have highest prevalence of CAM use among Asian subgroups
+
+
+Factors affecting physician visits in Chinese and Chinese immigrant samples
+Helen Miltiades, Bei Wu
+
+
+-over 12 million Asian Americans in US, almost 1/4th are Chinese
+-use of chinese medicine, depression, chronic conditions, and being married positively associated with physician utilization
+-being uninsured negatively associated
+-barriers facing immigrant Chinese elders in utilizing Western Physicians: need to rely on family networks to navigate healthcare system, transportation etc

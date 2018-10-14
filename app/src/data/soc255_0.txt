@@ -1,0 +1,56 @@
+﻿Week 1: Obesity and sociological approaches to health
+
+
+* Health defined-
+   * World Health Organization
+      * Health is a state of complete physical, mental and social well-being
+         * not merely the absence of disease or infirmity
+   * Preventative vs. medical model
+      * Medical Model
+         * Absence of illness/disease
+         * Prevalent model in US and industrialized nations
+         * Skewed towards curative activities
+            * More expensive 
+               * Big pharma is expensive
+               * Personalized medicine $$$
+               * Band-aid; fixing the effects of disease without acknowledging the causes
+            * US spends more money per capita than any other nation
+      * Preventative Model
+         * Focus is on preventing illness, rather than curing illness and disease
+   * Morbidity and mortality
+      * Morbidity
+         * Illness (physical and mental)
+         * Harder to measure accurately
+         * CDC and National Center for Health Statistics collect surveys
+            * Immigrants might have illness but aren’t aware
+      * Mortality = death
+         * Easier to define and measure
+            * Exception of immigrant groups
+         * Recorded on death certificates
+         * Salmon bias hypothesis
+            * Immigrants try to return home to die in their home country
+               * Undercount deaths of immigrants
+         * Changes in US mortality
+            * Leading causes of death in 1900:
+               * Infectious diseases
+                  * pneumonia/flu, Tuberculosis, diarrhea/diphtheria
+               * Prevented with improvements in public health
+            * Leading causes of disease now:
+               * Social environment-influenced lifestyle causing diseases        
+                  * Cancer
+                  * Heart disease
+                  * Chronic lower respiratory diseases
+* Sociology and health
+   * Sociologists study health bc:
+      * Unequal outcomes
+         * Health is not evenly distributed in society
+      * Tied to social environment
+         * Lifestyle is affected by social environment
+            * Rooted in social causes
+            * Health is not individual; it is a societal problem
+      * Health is ultimate indicator of inequality
+         * mortality decreases by income
+      * Does not dismiss biology and genetics
+   * Sociology approaches vs others-
+      * Sociologists- 
+         * 

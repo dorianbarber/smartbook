@@ -1,0 +1,58 @@
+ outcomes of groups since discrimination itself is hard to measure
+* “personal/group” discrimination discrepancy: ppl typically report perceiving greater discrimination directed towards their group rather than to themselves
+* factors why individuals reporting difference experiences of discrimination even when subjected to same “exposure”
+   * internalized oppression: members internalize negative views of dominant culture and accept their status and unfair treatment as “deserved”/non-discriminatory
+   * some may see discrimination as “positive traits” attributed to them by the dominant group
+   * ppl consciously or subconsciously shape answers to be “socially acceptable” and may also vary in finding it helpful or distressing to speak about problems
+   * Individuals may exaggerate experiences of discrimination to avoid blaming themselves for failure
+* four research strategies that could be useful
+   * employ qualitative interviews
+   * build on new research about people’s physiologic response to adverse stimuli pertaining to the types of discrimination being studied
+   * use implicit measures designed to circumvent biases
+   * include questions assessing identity formation, political consciousness, stigma, and internalized oppression
+* population level measures of discrimination could perhaps be meaningfully combined w/ individual-level measures to yield even more informative analyses of health consequences of discrimination
+* pathways that discrimination can affect health
+   * economic and social deprivation
+   * toxic substances and hazardous conditions
+   * socially inflicted trauma
+   * targeted marketing of legal and illegal psychoactive substances and other commodities
+   * inadequate healthcare
+* pathway #1: residential segregation and occupational segregation lead to greater economic deprivation
+* pathway #2: residential segregation increases risk of exposure to lead among African Americans via contaminated soil, lead, etc.
+* pathway #3: perceiving or anticipating racial discrimination provokes fear and anger; physiology of fear mobilizes lipids and glucose to increase energy supplies and sensory vigilance and also produces transient elevations in blood pressure, allostatic load
+* pathway #4: targeted marketing of high-alcohol content beverages to black communities increases likelihood of harmful use of alcohol, etc.
+pathway #5: poorer detection and clinical management of hypertension among black communities increases risk of uncontrolled hypertension due to insufficient medical care
+Racial Context, Black Immigration and the U.S. Black/White Health Disparity by Read
+   * compared to U.S.-born blacks, black immigrants from minority white (Africa, South America) and racially mixed (West Indies) regions have superior health, while those from majority white (Europe) regions fare no better
+   * understanding the mechanisms in the United States – racial context – that worsen the health and well-being of black Americans, foreign and native-born alike
+   * Introduction
+   * blacks have the highest rates of morbidity and mortality for almost all diseases, highest disability rates, shortest life expectancies, least access to health care, and startlingly low rates of the use of modern technology in their treatment
+   * three major unknowns in our knowledge about the health of black immigrants
+   * whether the immigrant advantage applies to blacks uniformly or varies by region of birth
+   * whether the immigrant advantage is due to selectivity, sociodemographic factors, cultural characteristics, or other factors
+   * whether the black immigrant advantage follows the same path as other groups and erodes over time
+   * Theorizing Black Immigrant Health
+   * studies consistently document that immigrants enjoy better health outcomes than the comparable U.S.-born population, whether health status is conceptualized in terms of morbidity or mortality
+   * with increased duration in the United States, the advantage erodes as a result of increased risk-taking behavior, such as poor diet and exercise, and loss of protective factors, such as family support and cultural orientation
+   * differences in migration circumstances, human and social capital, context of reception, and lifestyle characteristics help explain these patterns
+   * socioeconomic status fails to explain the entire racial gap in health – blacks have worse health than whites at comparable levels of education and income, an indication that race plays a larger role than socioeconomic status
+   * socioeconomic status does not explain the effects of race, but rather, race is causally prior to socioeconomic status and specifies one’s socioeconomic position
+   * racism is a powerful determinant of health status because it operates on many different levels: by limiting access to socio-economic goods through residential segregation, which in turn determines access to education and employment opportunities
+   * Toward an Alternative Explanation: Racial Context of Origin
+   * relative economic success of black immigrants compared to U.S.-born blacks was once considered evidence of a “black success story,” not unlike the model minority image of Asian immigrants
+   * Caribbean blacks are believed to benefit from favorable perceptions that white employers have about them, relative to U.S.-born blacks, whereas African immigrants do not appear to have the same advantage
+   * Caribbean immigrants in New York City and found that they are more likely to be employed, work more hours, and have higher incomes than U.S.-born blacks
+   * since these immigrants come from cultures in which blacks are the majority, they have accumulated more social and cultural capital than U.S.-born blacks
+   * have higher self-esteem, are more prepared to resist efforts to discriminate against them, and their accents allow them to be perceived by others as different from U.S.-born blacks
+   * blacks living in majority white contexts typically suffer esteem issues, the lower end of the socioeconomic ladder, and the receiving end of individual- and structural-level racism
+   * social epidemiologists have shown that early life experiences, especially sub-desirable ones, become permanently embedded and have negative consequences in all phases of human development
+   * for racial minorities, the conflict between identity and the developing reality of adulthood – that one’s aspirations are often unachievable because of one’s racial category – has negative consequences for both physical and mental health
+   * Hypotheses for Black Immigrant Health
+   * African-born blacks comprise 16 percent of the U.S. foreign-born black population and are considerably more educated than other black immigrant groups
+   * African immigrants are considerably more likely than other black immigrants to migrate through diversity programs and much less likely to be admitted on the basis of family-sponsored visas, all of which points to importance of U.S. immigration policies in affecting selectivity
+   * policies that favor family reunification increase migration opportunities for populations with larger, more established networks in the United States and limit migration opportunities for groups with fewer numbers of U.S. residents
+   * those from South America and the West Indies are less highly selected , with far more entering the United States each year on the basis of family-sponsored preferences
+   * a major difference between South American and West Indian black immigrants is in the racial contexts in their regions of origin
+   * South American blacks more closely resemble African blacks, a nation with a large African and East Asian presence and very small white population
+   * West Indians, in contrast, are considerably more likely to originate from countries that are more racially mixed and/or have greater interaction with whites
+   * European-born black immigrants represent the only group that originates from majority white racial contex
