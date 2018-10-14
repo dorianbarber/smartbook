@@ -1,0 +1,18 @@
+.logo{
+	height:50px;
+    width: 1240px;
+    background-color: #000000;
+}
+
+.image{
+	margin-top: 5px;
+	float:left;
+}
+
+.name{
+	color: #ADD8E6;
+	margin-top: 0px;
+	margin-left: 70px;
+	font-family:Courier;
+	font-size: 45px;
+}

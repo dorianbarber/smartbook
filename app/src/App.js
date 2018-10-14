@@ -2,9 +2,10 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import Notepad from './notepad.js';
 import './style/App.css';
-import Directory from "./directory.js"
-import './style/panel.css'
-
+import Directory from "./directory.js";
+import './style/panel.css';
+import Logo from './logo.js'
+import './style/logo.css'
 
 class App extends Component {
   state = {
@@ -18,7 +19,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
+        <div className = "logo">
+          <Logo /> 
+        </div>
         <div className = "panel1">
           <Directory />
         </div>
