@@ -4,6 +4,9 @@ import button from 'react-bootstrap';
 import axios from 'axios';
 import Notepad from './notepad.js';
 import './style/App.css';
+import Directory from "./directory.js"
+import {Panel} from "react-bootstrap";
+import './style/panel.css'
 
 
 class App extends Component {
@@ -32,16 +35,9 @@ class App extends Component {
   request() {
     axios.get('http://localhost:5000/')
       .then(res => {
-
-        let newFile = {
-          lineNumber: res.data.lineNumber,
-          file: res.data.file
-        }
-
-        this.setState((prevState) => ({
-          files: [...prevState.files, newFile]
-        })
-      })
+        console.log(res.data)
+        
+      });
   }
 }
 

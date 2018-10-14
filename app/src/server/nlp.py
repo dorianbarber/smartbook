@@ -2,6 +2,7 @@ import os
 import re
 import nltk
 from stop_words import get_stop_words
+from operator import itemgetter
 
 
 def read_files(folder):
@@ -40,6 +41,7 @@ def create_new_file(name,txt,i):
 
 
 def find_top_doc(word, d):
+    results = []
     top_doc = ''
     max_freq = 0
     for key in d:
@@ -56,6 +58,11 @@ def find_top_doc(word, d):
               'DOCUMENT',top_doc,
               'RELATIVE FREQ', max_freq,
               '\n',d[top_doc], '\n','-'*80)
+        results.append((word, max_freq,top_doc, d[top_doc]))
+        results = sorted(results, key=itemgetter(1), reverse=True)
+        return results[0]
+
+
 
 def inputSent(sent, dict):
     stop_words = get_stop_words('english')
