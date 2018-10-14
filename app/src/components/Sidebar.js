@@ -20,7 +20,7 @@ class Sidebar extends Component {
 		return (
 				<Collapse accordion className='container'>
 					{this.props.data.map((ref) => {
-						return <Panel showArrow={false} className='panel'header={ref.word} key={ref.text}><p>{ref.text}</p>/</Panel>
+						return <Panel showArrow={false} className='panel'header={ref.word + ": " + ref.file} key={ref.text}><p>{ref.text}</p>/</Panel>
 					})}
 				</Collapse>
 		);
