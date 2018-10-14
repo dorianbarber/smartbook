@@ -84,7 +84,8 @@ def initializeDict():
     dataFolder = 'data'
     notes = read_files(dataFolder)
     return notes
-    
+
+     
 if __name__ == '__main__':
     dataFolder = 'data'
     notes = read_files(dataFolder)
