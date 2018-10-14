@@ -1,0 +1,11 @@
+.panel1{
+  background: #FFFFFF;
+  border: #FFFFFF 3px;
+  float: left;
+}
+ 
+.panel2{
+  background: #0D1D24;
+  border: solid black 1px;
+  float: left;
+} 

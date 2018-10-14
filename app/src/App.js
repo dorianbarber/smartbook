@@ -2,8 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import button from 'react-bootstrap';
 import axios from 'axios';
+import Notepad from './notepad.js';
 import './style/App.css';
-import Sidebar from './components/Sidebar';
+
 
 class App extends Component {
   state = {
@@ -17,15 +18,13 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          
-          <div>
-            <button onClick={this.request}>
-              hello
-            </button>
-          </div>
-        </header>
-        <Sidebar files={this.state.files}/>
+
+        <div class = "panel1">
+          <Directory />
+        </div>
+        <div class = "panel2">
+          <Notepad />
+        </div>
       </div>
     );
   }
@@ -42,7 +41,7 @@ class App extends Component {
         this.setState((prevState) => ({
           files: [...prevState.files, newFile]
         })
-      }))
+      })
   }
 }
 
