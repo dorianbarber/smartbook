@@ -5,6 +5,7 @@ import Directory from "./directory.js";
 import Sidebar from "./Sidebar.js";
 import '../style/App.css';
 import '../style/panel.css';
+import '../style/logo.css';
 
 
 class App extends Component {
@@ -30,6 +31,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <div className = "logo">
+          <Logo />
+        </div>
         <div className = "panel1">
           <Directory />
         </div>
