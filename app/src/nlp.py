@@ -10,7 +10,7 @@ def read_files(folder):
     for f in os.listdir(folder):
         if f != '.DS_Store':
             path = folder + '/' + f
-            with open(path, 'r') as readFile:
+            with open(path, 'r',encoding='utf-8') as readFile:
                 text = readFile.read()
             notes[f] = text
     return notes
@@ -52,13 +52,14 @@ def find_top_doc(word, d):
             top_doc = key
     if max_freq == 0 or top_doc == '':
         print('NO MATCHES')
+        return ('',-1,'','')
     else:
         print('WORD', word, 
               'DOCUMENT',top_doc,
               'RELATIVE FREQ', max_freq,
               '\n',d[top_doc], '\n','-'*80)
         
-    return (word, max_freq,top_doc, d[top_doc])
+        return (word, max_freq,top_doc, d[top_doc])
 
 
 
@@ -85,7 +86,7 @@ def initializeDict():
     notes = read_files(dataFolder)
     return notes
 
-     
+
 if __name__ == '__main__':
     dataFolder = 'data'
     notes = read_files(dataFolder)
