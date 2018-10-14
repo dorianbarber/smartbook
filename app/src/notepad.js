@@ -6,8 +6,15 @@ import './style/draft.css';
 class Notepad extends Component{
   constructor(props){
     super(props);
-    this.state = {editorState: EditorState.createEmpty()};
+    this.state = {
+      editorState: EditorState.createEmpty(),
+      lastSent: ""
+    };
     this.onChange = (editorState) => this.setState({editorState});
+  }
+
+  onChange() = (editorState) => {
+    this.setState({editorState});
   }
 
   onBoldClick() {
