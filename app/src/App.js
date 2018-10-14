@@ -10,12 +10,8 @@ class App extends Component {
     return (
       <div className="App">
         <Notepad />
-
-        <div>
-          Hello
-        </div>
         {/* <header className="App-header">
-          
+
         </header> */}
       </div>
     );

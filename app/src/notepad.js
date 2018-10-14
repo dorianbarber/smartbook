@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {Editor, EditorState, RichUtils} from 'draft-js';
+import {Button, ButtonToolbar} from 'react-bootstrap';
 import './style/draft.css';
 
 class Notepad extends Component{
@@ -7,21 +8,30 @@ class Notepad extends Component{
     super(props);
     this.state = {editorState: EditorState.createEmpty()};
     this.onChange = (editorState) => this.setState({editorState});
-    this.handleKeyCommand = this.handleKeyCommand.bind(this);
   }
 
-  handleKeyCommand(){
-    const newState = RichUtils.handleKeyCommand(editorState, command);
-    if (newState) {
-      this.onChange(newState);
-      return 'handled';
-    }
-    return 'not-handled';
+  onBoldClick() {
+    this.onChange(RichUtils.toggleInlineStyle(this.state.editorState, 'BOLD'));
+  }
+
+  onItalicClick() {
+    this.onChange(RichUtils.toggleInlineStyle(this.state.editorState, 'ITALIC'))
   }
 
   render(){
     return (
-        <Editor editorState={this.state.editorState} onChange={this.onChange} />
+      <div>
+        <ButtonToolbar>
+          <Button bsStyle="primary" onClick={this.onItalicClick.bind(this)}>Italic</Button>
+          <Button onClick={this.onBoldClick.bind(this)}>Bold</Button>
+          <Button bsStyle='primary'>Hello</Button>
+        </ButtonToolbar>
+
+        <Editor
+          editorState={this.state.editorState}
+          onChange={this.onChange} />
+      </div>
+
     );
   }
 }

@@ -1,15 +1,16 @@
 .DraftEditor-editorContainer, .DraftEditor-root, .public-DraftEditor-content{
-     height:inherit;
+     height:500px;
      text-align:initial
 }
  .public-DraftEditor-content[contenteditable=true]{
-     -webkit-user-modify:read-write-plaintext-only
+     -webkit-user-modify:read-write-plaintext-only;
 }
  .DraftEditor-root{
      position:relative
 }
  .DraftEditor-editorContainer{
-    background-color: #282c34;
+    overflow-y:scroll;
+    background-color: #DCE7C8;
     border-left:.1px solid transparent;
     position:relative;
     z-index:1
