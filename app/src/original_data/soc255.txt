@@ -1,0 +1,585 @@
+﻿Week 1: Obesity and sociological approaches to health
+
+
+* Health defined-
+   * World Health Organization
+      * Health is a state of complete physical, mental and social well-being
+         * not merely the absence of disease or infirmity
+   * Preventative vs. medical model
+      * Medical Model
+         * Absence of illness/disease
+         * Prevalent model in US and industrialized nations
+         * Skewed towards curative activities
+            * More expensive 
+               * Big pharma is expensive
+               * Personalized medicine $$$
+               * Band-aid; fixing the effects of disease without acknowledging the causes
+            * US spends more money per capita than any other nation
+      * Preventative Model
+         * Focus is on preventing illness, rather than curing illness and disease
+   * Morbidity and mortality
+      * Morbidity
+         * Illness (physical and mental)
+         * Harder to measure accurately
+         * CDC and National Center for Health Statistics collect surveys
+            * Immigrants might have illness but aren’t aware
+      * Mortality = death
+         * Easier to define and measure
+            * Exception of immigrant groups
+         * Recorded on death certificates
+         * Salmon bias hypothesis
+            * Immigrants try to return home to die in their home country
+               * Undercount deaths of immigrants
+         * Changes in US mortality
+            * Leading causes of death in 1900:
+               * Infectious diseases
+                  * pneumonia/flu, Tuberculosis, diarrhea/diphtheria
+               * Prevented with improvements in public health
+            * Leading causes of disease now:
+               * Social environment-influenced lifestyle causing diseases        
+                  * Cancer
+                  * Heart disease
+                  * Chronic lower respiratory diseases
+* Sociology and health
+   * Sociologists study health bc:
+      * Unequal outcomes
+         * Health is not evenly distributed in society
+      * Tied to social environment
+         * Lifestyle is affected by social environment
+            * Rooted in social causes
+            * Health is not individual; it is a societal problem
+      * Health is ultimate indicator of inequality
+         * mortality decreases by income
+      * Does not dismiss biology and genetics
+   * Sociology approaches vs others-
+      * Sociologists- 
+         * Focus on fundamental factors distant from outcome (social class, gender) 
+            * Fundamental causes
+      * Epidemiologists
+         * Focus on more proximal factors (diet, exercise, smoking)
+      * Medical doctors
+         * Focus on biological factors (cholesterol levels)
+* Tension between goals of for-profit organizations (food and pharma industries) and the ability and desire for govt regulation of public health
+
+
+* Obesity
+   * Defined by body mass index (30-40)
+      * BMI = Weight (kg)/height (m2)
+   * Worldwide burden
+      * 44% increase in 6 years (2009-2015)
+      * 118% increase in 20 years (2015-2030)
+   * Linked to hypertension, diabetes, heart diseasel, metabolic syndrome, poor mental health, and high $$$$$$$$
+   * Perceived as individual problems
+      * 80% of overweight kids become overweight adults
+         * Socialized early and its hard to change
+      * In US span of 25 years (1990-2015)
+         * Maximum in each state is 14%, now 0 states under 20%
+      * 1980 to 2014 obesity rates-
+         * Age 2-5 (5 - 9.4%)
+         * Age 6-11 (6.5 - 17.4%)
+         * Age 12-19  (5 - 20.6%)
+   * US aging population growing
+      * 2000- 12%, 2070 projected 25%
+         * Fat children going forward
+   * What contributes to growing obesity
+      * Unhealthy foods are cheaper; healthy is expensive
+         * 190% increase in prices for fresh fruits and veggies
+         * Food prices dropped by 38% since 1978
+      * Easier to live a sedentary lifestyle
+      * Massive economic changes
+         * Women in the workforce; longer commutes
+            * No one is at home to prepare healthy meals or socialize kids
+            * 1976- 31% labor force moms,  2012- 62% labor force mom
+      * Changes in social and cultural norms
+         * Fast food culture; Sundays in the south        
+            * 48% of americans say they drink at least one glass of soda daily
+            * 2015, avg american drinks 60 gallons of soft drinks
+               * 50% increase from 1980
+      * Changes in the food and marketing
+         * Targeting children, different ingredients
+   * Food industry- 35 billion for advertising
+      * 70% advertising for non nutritious foods
+      * 2% fruits, veggies, grains
+         * Heavily marketed to kids
+   * Children’s Food and Beverage Advertisement Initiative
+      * Voluntary industry self regulatory program
+         * 18 participating companies in 2016
+   * Obesity epidemic worsening
+      * Governmental efforts to stop it have been unsuccessful
+      * Industry self regulation problematic
+
+
+* Opioid
+   * Late 1990s, pharma encouraged doctors to prescribe opioid pain relievers
+         * Said not addictive
+         * Heavy marketing with promo videos
+      * Doctors prescribed medications and discovered addictive nature
+   * 2015, 2 million people had substance use disorders related to Rx opioids
+      * 33000+ (over half) deaths tied to opioid overdose
+      * 591,000 had heroin disorder
+   * Opioid as gateway to heroin
+      * 21-29% patients given opioid Rx misuse them
+      * 4-6% who misuse prescription opioids transition to heroin
+      * 75% heroin users first misused Rx opioids
+   * Invisible forces
+      * Big pharma makes 9.57b profit off opioid painkillers
+      * Physicians get food, beverages, travel and lodging for opioid product payment
+   * Caused by economic recession
+
+
+Week 2: Immigrant origin and settlement patterns
+
+
+* Who are US immigrants
+   * Size
+   * National origin composition
+* Role of US immigration policies
+   * Historical 
+   * Current
+* How social status of immigrants impacts health
+
+
+* Total US population size: 328 million
+   * 13.5% (43.7million) immigrant
+      * Immigrant- foreign born child not born to american parents
+*  Immigrant top 3 origins
+   * Mexico
+   * India
+   * China
+* Over 50% of all immigrants arrived since 1990
+   * Prior to 1960s = from western europe
+      * Mexico/Latin America = 10%
+   * Post 1960s- from south america, asia, africa        
+      * Mexico/Latin America - 52%
+* Size has grown-
+   * 2.2 m to 43.7 mil
+   * BUT proportion of overall population about the same
+      * 9.7 - 13.5
+* Types of immigrants
+   * Voluntary migrants (legal)
+      * Work 
+         * 675k is annual cap of immigrants
+         * 140k/675k for work
+      * Education
+      * Family reunification
+         * 450k/675k
+   * Forced migrants
+      * Asylum seekers- already in country and apply for residence
+         * Somehow got here legally and show that if they go back = persecution
+      * Refugees- applying for residence outside of country
+         * 85k/675k is refugees
+   * Undocumented migrants
+      * Not always distinct from #1
+         * Can get here legally but overstay visas
+      * ¼ of immigrant population (11m)
+      * ~50% from Mexico
+         * Concentrated in California, Texas, Florida, New York
+            * Gateway states with need for migrant workers and agriculture
+* Is a result of factors and policies in the sending countries and countries of reception
+* History of US immigration
+   * Colonial period: 1600s-1776; northern Europe
+   * Mid and late 19th century; northern Europe
+      * 1882 Chinese Exclusion Act banned new laborers for 10 years and denied path to citizenship leaving thousands unemployed
+         * Additional laws restricted Asian immigration
+   * 1921 and 1924 Immigration Acts (national origin quotas)
+      * Limited total number of immigrants entering each yearto 350k (165k in 1924) and capped nationality quota at 3% from any country
+         * 2% in 1924
+         * nO LIMIT ON WESTERN HEMISPHERE
+   * 1965 Hart-Celler Act
+      * Abolished quotas
+      * Annual immigration from eastern hemisphere at 170k and western at 120k
+   * 1975 refugee Act
+      * Resettles 200k Vietnamese and Cambodian refugees
+   * 1986 Immigration Reform and Control Act (IRCA)
+      * 3m undocumented allowed to apply for legal status
+   * 1990 Immigration Act
+      * Annual limit 700k for 3 years; then 675k
+         * Diversity visas established 
+   * Homeland Security Act of 2002
+      * Dissolved Immigration and Naturalization Services
+      * Created Department of Homeland Security → oversees immigration
+         * Split services into 
+            * Enforcement functions
+            * Naturalization and visa functions
+   * 2001 Dream Act
+      * Congress introduces Development, Relief and Education Act for Alien Minors (DREAM) to curve path out to citizenship for young immigrants
+   * 2012 Obama executive order
+      * Grant 2 year work visas to delay deportation
+         * No criminal record, student, high school graduate, or military veteran, live in country for 5+ years,
+* TODAY
+   * Highly focused on national security and economy
+   * 2008 Secure Communities allows local law enforcement to share data with Immigration Customs Enforcement (ICE)
+      * Limited protection for immigrants
+* Social status in origin and arrival
+   * Social status= fundamental cause of disease (Link and Phelan)
+   * Three characteristics
+      * Involves access to resources that can be used to avoid risk or minimize the effects of disease
+      * Influences multiple risk factors and multiple disease outcomes
+      * Maintains an association even when intervening mechanisms change
+   * race/ethnicity is a fundamental social status
+
+
+Week 3: Explanations for immigrant health
+
+
+* Health is just one of many assimilation outcomes
+* Three key factors determine degree and ease of assimilation
+   * Individual traits 
+      * education, income, skills, language
+   * Social environment in sending and receiving country
+      * Government policies 
+         * exclusion, acceptance, encouragement
+      * Attitude of native-born population 
+         * Discrimination
+      * Presence of co-ethnics
+   * Family structure
+      * Unpaid female labor towards “family” businesses
+      * More resources for economic attainment
+* What do we know about immigrant health?
+   * Populations from diverse world regions
+   * On average, they arrive healthier than US born
+      * Selective migration
+      * Cultural buffering (having social support network)
+      * Lifestyle and diet 
+   * On average, they lose health advantage over time
+      * Stressful experience (discrimination)
+      * Regression towards mean/average
+         * Health doesn’t decrease that much
+      * Increasing risk taking factors
+      * Loss of protective factors
+   * Patterns vary across groups
+* Other explanations for why immigrants appear to lose their health over time
+   * Problems with research questions
+      * Morbidity (cultural biases in self-reports)
+         * Questions don’t translate as well
+      * Mortality (salmon hypothesis)
+         * Elderly people go home to die
+   * Cross sectional data
+      * Access to care increases with time
+      * Newer immigrants may not have access at first (not aware of questions)
+      * Reference group changes over time
+         * Compare yourself to people around you over time (relative to proximity)
+      * Not necessarily Americanization
+
+
+Week 4: Hispanic immigrants
+
+
+* Hispanic Americans        
+   * Who is classified as Hispanic?
+      * Person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race
+         * 17.6% or 55m Hispanic
+         * 63% of that Mexican (32m)
+      * In 2015, 1 in 5 people in US hispanic
+      * In 2045, 1 in 4 people 
+         * But not all immigrants!
+      * 64% of 32 million Mexican immigrants are US born
+         * 36% are foreign born but only half are undocumented
+            * 6 million legal, 5.6 illegal
+   * Mexico and US immigration policies
+      * Hispanic Paradox- (esp. Mexican)
+         * Lower socioeconomic status but better health outcomes
+      * Bracero Program (1942-1964)
+         * Manual laborer worker program that paid 30c/hour
+      * 1965 Immigration and Nationality Act
+         * Imposed numerical limits on Mexican immigrants
+            * Family reunification favored larger groups of people that allowed them to grow more
+      * IRCA (1986)
+         * Toughened border security and increased penalties
+            * Gave legal status to immigrants already in country
+* Hispanics have high employment rates but:
+   * Not necessarily highly skilled
+      * Low pay, intensive (domestic housekeeping, farming, construction, landscaping)
+   * Low english proficiency
+      * Jobs don’t require english so illiteracy is perpetuated
+   * Low educational attainment
+   * Low social class status
+   * High rates of poverty
+* Poverty
+   * Pre-tax income; does not vary geographically
+   * In 2015, 13.2% of Americans (43.1m)
+         * 9% white, 24% black, 21% hispanic
+         * Sheer numbers- whites using most of the poverty benefits but minorities disproportionately represented
+      * Single person, $12k is poverty line
+         * 11k if over 65 years old
+      * Single parent with 1 kid, $16,337
+         * 57% of their income would be needed for childcare
+      * Single parent with 2 kids, $19,096
+         * Will not get you housing, healthcare or childcare
+   * Wealth inequality bigger problem than income inequality and is growing
+      * Home, stocks and bonds, boats → all assets
+      * People marry each other and combine assets
+         * For every 1 dollar of wealth that whites have 
+            * Asians have 81 cents
+            * Blacks have 6 cents
+            * Hispanics have 7 cents
+* Mechanisms linking low status to health - stress
+   * Worse economic conditions
+      * Less likely to be working, and working full-time
+      * Less subjectively rewarding jobs and more $$$
+         * Mushroom farm lol
+   * Fewer social-psychological resources
+      * Less sense of control over life and health status 
+      * Lower levels of social support
+   * Worse health behaviors
+      * More smoking, less exercise, fewer health checkups, substance abuse
+   * Vulnerable to effects espec if ur poor
+* How does stress get “in” the body?
+   * Cortisol and epinephrine/adrenaline have both protective and damaging effects on body
+   * Four conditions leading to allostatic load
+      * Repeated frequency of stress responses to multiple novel stressors
+         * New stressors that can’t be habituated to and can’t be expected
+      * Failure to habituate to repeated stressors of the same kind
+         * Increase in blood pressure
+      * Failure to turn off stress response in a timely manner due to delayed shut down
+      * Inadequate response that leads to compensatory hyperactivity of other mediators
+* Immigrants bring characteristics that then impact their health profile
+* Arrival cohort
+   * If they start off being bad, they get worse
+
+
+Week 5: Black Immigrants, Racism and Health
+
+
+* Evidence of black/white health disparities        
+   * Not just about immigrants
+   * Disparities across life course (death and birth)
+* Major explanations for disparities
+   * Genetics
+   * Social position
+   * Discrimination and racism
+* Role of stress
+   * Applicability to black immigrants
+
+
+Black white differences in mortality and morbidity stable despite rapid advances in technology,
+* Gap between black and white health has stayed stable despite standard of living going up
+* US born black Americans have
+   * Shorter life expectancies
+   * Higher disability rates
+   * Higher rates of many chronic diseases
+   * Less access to health care
+
+
+In general, women outlive men, black male life expectancy playing catch up to white females
+* 2016 black male still LOWER than 1970 white female
+Infant mortality- indicator of overall development of country
+* If you can’t keep kids alive at birth (infant mortality up to first year)
+   * Indicative of overall economic prosperity
+* 40 weeks is full-term gestational period (10 months)
+   * Premature birth is less than 37 weeks gestation
+* Low-birth weight (LBW) for singleton/single infant- below 5.5 lbs (2500 grams)
+
+
+Predict with premature birth and low birth weight
+* Infant mortality
+* In childhood linked to
+   * Cognitive delay
+   * Psychomotor problems
+   * Subnormal growth
+   * Language delay
+   * School failure
+* Adulthood linked to
+   * Cancer 
+   * Cardiovascular conditions
+   * Diabetes
+   * Arthritis
+      * Long arm of childhood- if born prematurely or at LBW, higher likelihood for cancers, etc (long-term consequences)
+
+
+LBW birth weight predicts:
+* Adult obesity
+   * Nutritionally deprived newborns are programmed to eat more because they develop less neurons in region of brain that controls food intake
+
+
+Black infant mortality is at least consistently double whites
+* Gap has grown
+   * 1960- blacks 44.3, whites 22.9
+   * 2016- blacks 11.1, whites 4.8
+
+
+Black immigrants are continuing to contribute to black population, especially as their numbers grow
+
+
+Explanations for racial disparities
+* Genetics largely discounted
+   * Genetic human variation between populations is modest 
+      * If its genetic gene, African gene should be strongest for women born in Africa
+      * But African born look most like US white women
+* Social position
+   * Buffers against stress
+* Discrimination and racism
+   * Better at measuring this 
+
+
+Discrimination- process by which members of a group are treated differently on the basis of belonging to that group
+* Two types
+   * De jure- in law
+      * Jim Crow laws, institutionalized racism
+   * De facto- in reality
+      * Colorblind racism, neighborhoods that result in school segregation
+
+
+Everyday discrimination scale by David R Williams
+* Experiencing discirmination triggers feelings of being
+   * Over scrutinized
+   * Overlooked 
+   * Underappreciated
+   * Misunderstood
+   * Disrespected
+* Violate cultural expectations of fairness, morality , dignity and human rights
+* Elevated stress accumulates over time= poor health outcomes
+   * Create stress through allostatic load
+   * In 2015, 23% of blacks said they experienced discrimination at least once a week
+
+
+How stress impacts health: allostatic load
+* Repeated frequency of stress responses to multiple novel stressors
+* Failure to habituate to repeated stressors of the same kind
+* Failure to turn off each stress response in timely manner due to delayed shut down
+* Inadequate response that leads to compensatory hyperactivity of other mediators
+Allostatis- ability to maintain stability through change
+
+
+Need to understand how immigrants are contributing to health profile of US
+
+
+Importance of black immigrants for US racial disparities
+* Tripled in size 3% to 9% of black population since 1980
+* Projected to be 16.5% of black population in 2060
+
+
+Why do black immigrants matter?
+* From diverse origins
+   * 50% from Caribbean (Jamaica, haiti)
+   * 39% from Africa
+* On diverse visas
+   * Immigrants coming in on diversity visas are pre-selected (probably have good health)
+   * Refugees - low health
+   * Translates into diverse health outcomes
+* Share same status as black Americans but have significantly better health
+   * 2nd generation do poorly on many outcomes
+* Mary Water’s research on Caribbean immigrants in NYC [Black Identities]
+   * More likely to work, work more hours, have higher incomes than US born blacks
+   * Immigrants come from societies where not the racial minority often with accents allows them to be perceived differently
+   * But over time, advantages erode
+      * Without accents and raised in US context, 2nd gen look the same as US blacks
+   * Advantages parents bring with them wash away in new racial context of origin for their children
+
+
+Read and Emerson Application to Health research questions
+* Is the black immigrant health advantage uniform across groups or does it vary by region of birth
+   * Need to disaggregate the foreign born
+* Is their advantage due to selectivity, culture, socioeconomic status, or other factors like racism
+
+
+Racial context of origin- experience of being a racial minority or majority
+
+
+If you are perceived as being a racial minority your entire life, you become stressed very early on
+* Weathering- constant pressure of being a minority, slowly grinds you down
+
+
+Region of origin affects health through
+* Exposure to stressful life events (discrimination)
+* Position in stratification system (social position)
+* Racial identity formation
+   * Seeing people in positions of power that don’t look like you
+   * Not seeing yourself represented in media
+* Reference group
+   * For US born blacks, the reference is average US citizen
+   * For immigrant blacks, the reference location is region of origin
+
+
+
+
+EXAM 1:
+Format-
+* Short answer (4-5 questions)
+Content-
+* Readings (all assigned)
+   * Need to know either author’s name oR title of book
+* Lectures, discussion and films
+   * Unnatural causes “Becoming American” [Hispanic immigrants]
+   * Vox video
+Rules-
+* Reference at least 2 readings per question
+   * Can reuse some
+   * Underline references to readings
+      * Say “from lecture” if from powerpoint
+   * At least 8 different readings for total exam
+* Label questions “1a, 1b, 1c”
+   * Can be out of order
+Substance
+1. How do we define and measure health
+2. Why do sociologists study health? Sociological approachs vs. other disciplines?
+* Sociologists study more distant factors
+1. Historical patterns in US immigration
+   1. Changes in size and national origin composition before/after 1965?
+      1. Over time absolute size has grown of immigrant population
+      2. Know the proportion of immigrants in the USA (consistent 10-13%)
+      3. National origin composition prior to 1960s and post 1960s
+         1. Western European vs Mexico, India and China
+   1. Causes for change? Contexts and policies in origin and in US
+      1. Immigration policies
+         1. 1965 Immigration policy lifting quotas 
+1. Fundamental causes of disease (Link and Phelan)
+   1. Three characteristics
+      1.    1. How it relates to immigrants
+1. Pattern in immigrant health on arrival and over time
+   1. Explanations for patterns on arrival and over time (mechanisms)
+   2. Shortcomings in explanations
+1. What do we know about Hispanic immigrants
+   1. Size and major national origins
+      1.    1. Size of undocumented population
+1. What do we know about black immigrants
+   1. Evidence of black/white disparities (not just immigrants)
+      1. Life expectancy and infant mortality
+         1. If immigrants do worse, then these metrics will look worse as well
+   1. Explanations for racial disparities
+   2. Size and major national origins of immigrants
+      1. Growing, mainly from Africa and Caribbean
+   1. Why immigrants matter for US health disparities 
+      1. Contributing to black population health profile
+Study tips-
+* Use powerpoints to identify patterns/statistics for each week’s topic
+   * Work by week/topic NOT readings
+* Know 2-3 statistics for each topic
+   * Change in absolute size and % of US population over time
+   * Major origins prior to 1960s vs current
+
+
+KNOW LINK AND PHELAN
+* 3 CHARACTERISTICS OF FUNDAMENTAL CAUSE
+   * How does being an immigrant relate
+
+
+
+
+Social class- fundamental cause of disease
+* Involves access to resources that can be used to avoid risk or minimize effects of disease
+   * Safe neighborhoods, good health insurance
+* Influences multiple risk factors and disease outcomes
+   * Exposure to toxins, lack of access to nutrition, obesity, diabetes
+* Maintains an association even when intervening mechanisms change
+   * Provide someone in poverty with health insurance but health doesn’t improve. Why?
+      * Not sustainable and doesn’t change the entire situation bc social status influences so many risk factors
+         * Web of causation is why its fundamental
+
+
+Doctors and surgeons:
+72% white
+8% black
+18% Asian
+7% Hispanic
+
+
+Registered nurses:
+12% black1
+77 white
+9 asian 
+7 hispanic
+
+
+https://www.unnaturalcauses.org/episode_descriptions.php?page=3
+Yeah yuh

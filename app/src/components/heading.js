@@ -11,7 +11,7 @@ class Heading extends Component{
 	}
 
 	render(){
-		return(	
+		return(
 			<div>
 				<li>
 					{this.props.title}

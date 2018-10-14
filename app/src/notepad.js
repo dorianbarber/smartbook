@@ -6,8 +6,15 @@ import './style/draft.css';
 class Notepad extends Component{
   constructor(props){
     super(props);
-    this.state = {editorState: EditorState.createEmpty()};
-    this.onChange = (editorState) => this.setState({editorState});
+    this.state = {
+      editorState: EditorState.createEmpty(),
+      result: ""
+    };
+    //this.onChange = (editorState) => this.setState({editorState});
+  }
+
+  onChange(e) {
+    this.setState({e});
   }
 
   onBoldClick() {
@@ -24,13 +31,18 @@ class Notepad extends Component{
 
   onPress = (e) => {
     var keyCode = e.which || e.keyCode;
-    if(keyCode == 46){
-      //console.log(this.state.editorState.getCurrentContent().getPlainText());
-      axios.get('http://localhost:5000/')
-        .then(res => {
-          console.log(res.data)
+    if(keyCode === 46){
+      var par = this.state.editorState.getCurrentContent().getPlainText()
+      console.log(par)
+      axios.get('http://localhost:5000/', {
+        params: {
+          sent: par
         }
-      );
+      }).then(res => {
+        this.props.onOutputChange(res.data.text);
+      }).catch((err) => {
+        console.log(err);
+      });
     }
   }
 

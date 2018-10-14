@@ -1,0 +1,9 @@
+.container{
+  height: 500px;
+  overflow-y: scroll;
+}
+
+.panel {
+  width: 300px;
+  font-size: 10px;
+}
