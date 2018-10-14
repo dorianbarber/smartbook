@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import button from 'react-bootstrap';
+import axios from 'axios';
+import './style/App.css';
 
 class App extends Component {
   render() {
@@ -11,17 +13,21 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <div>
+            <button onClick={this.request}>
+              Hello
+            </button>
+          </div>
         </header>
       </div>
     );
+  }
+
+  request(){
+    axios.get('http://localhost:5000/')
+      .then(res => {
+        console.log(res.data)
+      });
   }
 }
 
