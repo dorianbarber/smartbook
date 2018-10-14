@@ -34,15 +34,6 @@ class Directory extends Component{
 					< Heading title='Chapter 2'/>
 					< Heading title='Chapter 3'/>
 				</ul>
-
-				<h3>Course: Probability</h3>
-				<ul>
-					< Heading title='Chapter 1'/>
-					< Heading title='Chapter 2'/>
-					< Heading title='Chapter 3'/>
-				</ul>
-
-
 			</div>
 		)
 	}

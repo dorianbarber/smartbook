@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Reference from './reference.js';
 import {Collapse} from 'antd';
-import '../style/directory.css';
+import '../style/sidebar.css';
 
 const Panel = Collapse.Panel;
 
@@ -18,13 +18,11 @@ class Sidebar extends Component {
 
 	render() {
 		return (
-			<div>
-				<Collapse accordion>
+				<Collapse accordion className='container'>
 					{this.props.data.map((ref) => {
-						return <Panel header={ref.word} key={ref.text}><p>{ref.text}</p>/</Panel>
+						return <Panel showArrow={false} className='panel'header={ref.word} key={ref.text}><p>{ref.text}</p>/</Panel>
 					})}
 				</Collapse>
-			</div>
 		);
 	}
 }
