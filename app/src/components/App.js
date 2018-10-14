@@ -3,6 +3,7 @@ import axios from 'axios';
 import Notepad from './notepad.js';
 import Directory from "./directory.js";
 import Sidebar from "./Sidebar.js";
+import Logo from "./logo.js";
 import '../style/App.css';
 import '../style/panel.css';
 import '../style/logo.css';
