@@ -49,7 +49,20 @@ def find_top_doc(word, d):
         if rel_freq > max_freq:
             max_freq = rel_freq 
             top_doc = key
-    print(top_doc,max_freq,d[top_doc])
+    if max_freq == 0 or top_doc == '':
+        print('NO MATCHES')
+    else:
+        print('WORD', word, 
+              'DOCUMENT',top_doc,
+              'RELATIVE FREQ', max_freq,
+              '\n',d[top_doc], '\n','-'*80)
+
+def inputSent(sent, dict):
+    stop_words = get_stop_words('english')
+    words = sent.split(' ')
+    not_stop_words = [w for w in words if w not in stop_words]
+    for x in not_stop_words:
+        find_top_doc(x,dict)
 
 
 def preprocess(block):
@@ -62,6 +75,8 @@ def preprocess(block):
 if __name__ == '__main__':
     dataFolder = 'data'
     notes = read_files(dataFolder)
-    find_top_doc('asian',notes)
+    inputSent('mexican assimilation',notes)
+
+
     #search_for_word('health',notes)
     #split_files(dataFolder)

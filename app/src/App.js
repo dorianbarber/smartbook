@@ -3,31 +3,46 @@ import logo from './logo.svg';
 import button from 'react-bootstrap';
 import axios from 'axios';
 import './style/App.css';
+import Sidebar from './components/Sidebar';
 
 class App extends Component {
+  state = {
+    files: []
+  }
+
+  /*
+    files: [{lineNumber: , content: }]
+  */
+
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          
           <div>
             <button onClick={this.request}>
-              Hello
+              hello
             </button>
           </div>
         </header>
+        <Sidebar files={this.state.files}/>
       </div>
     );
   }
 
-  request(){
+  request() {
     axios.get('http://localhost:5000/')
       .then(res => {
-        console.log(res.data)
-      });
+
+        let newFile = {
+          lineNumber: res.data.lineNumber,
+          file: res.data.file
+        }
+
+        this.setState((prevState) => ({
+          files: [...prevState.files, newFile]
+        })
+      }))
   }
 }
 
