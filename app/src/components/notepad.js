@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Editor, EditorState, RichUtils} from 'draft-js';
 import axios from 'axios';
-import './style/draft.css';
+import '../style/draft.css';
 
 class Notepad extends Component{
   constructor(props){

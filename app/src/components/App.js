@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import Notepad from './notepad.js';
-import './style/App.css';
 import Directory from "./directory.js"
-import './style/panel.css'
+import '../style/App.css';
+import '../style/panel.css'
 
 
 class App extends Component {

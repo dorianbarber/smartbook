@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Heading from "./heading.js"
-import './style/directory.css';
+import '../style/directory.css';
 
 class Directory extends Component{
 
