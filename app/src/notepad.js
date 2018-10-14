@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {Editor, EditorState, RichUtils} from 'draft-js';
+import axios from 'axios';
 import './style/draft.css';
 
 class Notepad extends Component{
@@ -24,7 +25,12 @@ class Notepad extends Component{
   onPress = (e) => {
     var keyCode = e.which || e.keyCode;
     if(keyCode == 46){
-      console.log(this.state.editorState.getCurrentContent().getPlainText());
+      //console.log(this.state.editorState.getCurrentContent().getPlainText());
+      axios.get('http://localhost:5000/')
+        .then(res => {
+          console.log(res.data)
+        }
+      );
     }
   }
 
