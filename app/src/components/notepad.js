@@ -10,12 +10,9 @@ class Notepad extends Component{
       editorState: EditorState.createEmpty(),
       result: ""
     };
-    //this.onChange = (editorState) => this.setState({editorState});
+    this.onChange = (editorState) => this.setState({editorState});
   }
 
-  onChange(e) {
-    this.setState({e});
-  }
 
   onBoldClick() {
     this.onChange(RichUtils.toggleInlineStyle(this.state.editorState, 'BOLD'));
@@ -33,13 +30,14 @@ class Notepad extends Component{
     var keyCode = e.which || e.keyCode;
     if(keyCode === 46){
       var par = this.state.editorState.getCurrentContent().getPlainText()
-      console.log(par)
+      //console.log(par)
       axios.get('http://localhost:5000/', {
         params: {
           sent: par
         }
       }).then(res => {
-        this.props.onOutputChange(res.data.text);
+        console.log(res.data)
+        this.props.onOutputChange(res.data);
       }).catch((err) => {
         console.log(err);
       });
