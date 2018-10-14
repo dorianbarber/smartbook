@@ -5,13 +5,19 @@ import axios from 'axios';
 import Notepad from './notepad.js';
 import './style/App.css';
 import Directory from "./directory.js";
+import {Panel} from "react-bootstrap";
+import './style/panel.css';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Directory />
-        <Notepad />
+        <div class = "panel1">
+          <Directory />
+        </div>
+        <div class = "panel2">
+          <Notepad />
+        </div>
       </div>
     );
   }
