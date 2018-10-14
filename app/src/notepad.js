@@ -28,13 +28,15 @@ class Notepad extends Component{
   onPress = (e) => {
     var keyCode = e.which || e.keyCode;
     if(keyCode == 46){
+      var par = this.state.editorState.getCurrentContent().getPlainText()
+      console.log(par)
       axios.get('http://localhost:5000/', {
         params: {
-          sent: this.state.editorState.getCurrentContent().getPlainText()
+          sent: par
         }
       }).then(res => {
         console.log('something happened')
-        console.log(res.data)
+        console.log(res.data.text)
       }).catch((err) => {
         console.log(err);
       });

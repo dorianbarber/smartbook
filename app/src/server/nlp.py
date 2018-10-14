@@ -10,7 +10,7 @@ def read_files(folder):
     for f in os.listdir(folder):
         if f != '.DS_Store':
             path = folder + '/' + f
-            with open(path, 'r', encoding='utf-8') as readFile:
+            with open(path, 'r',encoding='utf-8') as readFile:
                 text = readFile.read()
             notes[f] = text
     return notes
@@ -46,26 +46,27 @@ def find_top_doc(word, d):
     for key in d:
         filtered_text = preprocess(d[key])
         filtered_length = len(filtered_text)
-        rel_freq = (filtered_text.count(word))/filtered_length
+        rel_freq = (filtered_text.count(word.lower()))/filtered_length
         if rel_freq > max_freq:
             max_freq = rel_freq
             top_doc = key
     if max_freq == 0 or top_doc == '':
         print('NO MATCHES')
+        return ('',-1,'','')
     else:
         print('WORD', word,
               'DOCUMENT',top_doc,
               'RELATIVE FREQ', max_freq,
               '\n',d[top_doc], '\n','-'*80)
 
-    return (word, max_freq,top_doc, d[top_doc])
+        return (word, max_freq,top_doc, d[top_doc])
 
 
 
 def inputSent(sent, dict):
     results = []
     stop_words = get_stop_words('english')
-    words = sent.split('+')
+    words = sent.split(' ')
     not_stop_words = [w for w in words if w not in stop_words]
     for x in not_stop_words:
         tup = find_top_doc(x,dict)
@@ -84,6 +85,7 @@ def initializeDict():
     dataFolder = '../data'
     notes = read_files(dataFolder)
     return notes
+
 
 if __name__ == '__main__':
     dataFolder = 'data'
