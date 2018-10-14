@@ -1,5 +1,5 @@
 .DraftEditor-editorContainer, .DraftEditor-root, .public-DraftEditor-content{
-     height:500px;
+     height:450px;
      width: 600px;
      text-align:initial
 }
@@ -11,12 +11,14 @@
 }
  .DraftEditor-editorContainer{
     overflow-y:scroll;
+    overflow-x: hidden;
     background-color: #0D1D24;
     color: #FFFFFF;
     border-left:.1px solid transparent;
     position:relative;
     z-index:1
 }
+
  .public-DraftEditor-block{
     position:relative
 }
@@ -172,7 +174,7 @@
     border-color: black;
     border-radius: 4px;
     color: white;
-    padding: 15px 32px;
+    padding: 1px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;

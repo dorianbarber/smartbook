@@ -3,7 +3,11 @@
   overflow-y: scroll;
 }
 
+.container::-webkit-scrollbar {
+    display: none;
+}
+
 .panel {
-  width: 300px;
+  width: 400px;
   font-size: 10px;
 }

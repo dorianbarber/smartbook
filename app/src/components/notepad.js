@@ -3,12 +3,13 @@ import {Editor, EditorState, RichUtils} from 'draft-js';
 import axios from 'axios';
 import '../style/draft.css';
 
+let result = '';
+
 class Notepad extends Component{
   constructor(props){
     super(props);
     this.state = {
-      editorState: EditorState.createEmpty(),
-      result: ""
+      editorState: EditorState.createEmpty()
     };
     this.onChange = (editorState) => this.setState({editorState});
   }
@@ -30,10 +31,12 @@ class Notepad extends Component{
     var keyCode = e.which || e.keyCode;
     if(keyCode === 46){
       var par = this.state.editorState.getCurrentContent().getPlainText()
+      var offer = par.replace(result, '');
+      result = par + '. ';
       //console.log(par)
       axios.get('http://localhost:5000/', {
         params: {
-          sent: par
+          sent: offer
         }
       }).then(res => {
         console.log(res.data)
@@ -41,6 +44,7 @@ class Notepad extends Component{
       }).catch((err) => {
         console.log(err);
       });
+
     }
   }
 
