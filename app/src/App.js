@@ -4,14 +4,24 @@ import button from 'react-bootstrap';
 import axios from 'axios';
 import Notepad from './notepad.js';
 import './style/App.css';
-import Directory from "./directory.js";
+import Directory from "./directory.js"
 import {Panel} from "react-bootstrap";
-import './style/panel.css';
+import './style/panel.css'
+
 
 class App extends Component {
+  state = {
+    files: []
+  }
+
+  /*
+    files: [{lineNumber: , content: }]
+  */
+
   render() {
     return (
       <div className="App">
+
         <div class = "panel1">
           <Directory />
         </div>
@@ -22,10 +32,11 @@ class App extends Component {
     );
   }
 
-  request(){
+  request() {
     axios.get('http://localhost:5000/')
       .then(res => {
         console.log(res.data)
+        
       });
   }
 }
