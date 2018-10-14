@@ -7,11 +7,16 @@ import './style/App.css';
 import Directory from "./directory.js";
 import {Panel} from "react-bootstrap";
 import './style/panel.css';
+import Logo from './logo.js'
+import './style/logo.css'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
+        <div class = "logo">
+          <Logo /> 
+        </div>
         <div class = "panel1">
           <Directory />
         </div>
