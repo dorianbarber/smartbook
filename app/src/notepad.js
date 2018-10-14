@@ -8,13 +8,9 @@ class Notepad extends Component{
     super(props);
     this.state = {
       editorState: EditorState.createEmpty(),
-      lastSent: ""
+      result: ""
     };
     this.onChange = (editorState) => this.setState({editorState});
-  }
-
-  onChange() = (editorState) => {
-    this.setState({editorState});
   }
 
   onBoldClick() {
@@ -32,12 +28,13 @@ class Notepad extends Component{
   onPress = (e) => {
     var keyCode = e.which || e.keyCode;
     if(keyCode == 46){
-      //console.log(this.state.editorState.getCurrentContent().getPlainText());
-      axios.get('http://localhost:5000/')
-        .then(res => {
-          console.log(res.data)
+      axios.get('http://localhost:5000/', {
+        params: {
+          sent: this.state.editorState.getCurrentContent().getPlainText()
         }
-      );
+      }).then(res => {
+        console.log(res.data)
+      });
     }
   }
 
