@@ -1,0 +1,106 @@
+arent’s parents, dependent on children’s knowledge of the system
+   * rates in which the parents and children assimilate can be different
+   * dissonant acculturation: children’s learning of English and American ways and simultaneous loss of the immigrant culture oustrip their parents’
+      * undercuts parental authorities and places children at risk
+   * consonant acculturation: opposite, learning process and gradual abandonment of the home language and culture occur at the same pace, parents can monitor it
+      * doesn’t guarantee success, can be undermined by discrimination
+   * selective acculturation: learning process of both generations is embedded in the co-ethnic community to slow down the cultural shift and promote partial retention of the parents’ home language and norms
+      * most solid basis for preservation of parental authority
+* Where They Grow Up: Challenges to the Second-Gen Adaptation
+   * to what segment of society will immigrants assimilate
+   * three major challenges to education attainment/career success for children of immigrants
+      * racial discrimination
+      * bifurcation of the US labor market and growing inequality
+      * consolidation of a marginalized population in the inner society
+   * Counterculture
+      * downward assimilation, opposite of upward mobility and assimilation
+* Confronting the Challenge: Immigrant Social Capital
+   * resources: those that provide access to economic goods and job opportunities and those that reinforce parental normative controls
+   * parents w/ higher social capital:
+      * more info on opportunities and pitfalls
+      * can earn higher incomes to access strategic goods
+   * The Immigrant Community
+      * social capital provides key resources in confronting obstacles to successful adaptation
+         * increases economic opportunities
+         * strong ethnic communities enforce norms against divorce
+            * help reinforce parental authority
+when parental expectations are reinforced by others in the community, probability of selective acculturation is enhanced 
+Immigrant Health: Selectivity and Acculturation by Jasso
+* the average healthiness of the original immigrants, the diversity in health status among immigrants, the subsequent health trajectories following immigration both over immigrants lifetime and that of their descendents all combine to produce the ethnic health disparities we observe at any point in time
+* two measures of health outcomes
+   * self-reports of general health status
+   * prevalence rates of important chronic conditions
+* self-reports: the foreign-born population in the United States appears to be in slightly worse health than the native-born are
+* prevalence rates: the foreign born have much lower rates of chronic conditions than the native-born do
+* the immigrants who arrive in any year may also be influenced by forces unique to that year
+* no matter what duration since immigration is examined, prevalence rates among immigrants are much less than those for the US born for chronic conditions
+* since the health of US native-born is so far in excess of those in most migrant sending countries, if migrants to the US have better health than the US native-born they surely have better health than those who stayed in the sending countries
+* the basic notion is that if disease rates change when you move from one place to another, it is indicative of a role for environmental factors
+* two perennial themes to the literature on migration and health outcomes
+   * the nature of the health selectivity of international migrants
+   * the impact of migration on the subsequent health trajectory of migrants
+* when migration costs are greater, migrants must be either more skilled or harder workers or both
+* countries with higher skill prices will also send fewer migrants to the US, but once again these migrants should be more selective on labor effort or skill
+* migration rates will increase when rates of skill transferability are higher, but migrants who do come will be of lower skill or work effort
+* dominant empirical conclusion appears to be that trajectories of immigrant health are less positive than they would have been if they had not migrated
+* skill and health go together for two reasons.
+   * those immigrants with more skill have higher incomes and thus can “purchase” better health, a proposition we will test directly based on the change in income of the immigrants
+   * those who tend to invest in human capital do so with respect to both investments in health and in labor market skills
+* countries generally not located at great distances from the U.S. have lower U.S. immigration barriers or costs and should, given skill prices, be disproportionately sending countries for low-skill and less healthy immigrants
+* health selection- the propensity of immigrants to be much healthier than a representative person in the sending country- is a quantitatively important phenomenon that is fundamental to understanding the most basic patterns that emerge about immigrant health
+Class Notes (9/19): Theories on Immigration and Health
+* Key Questions on Immigration and Health
+   * Are determinants of health comparable across national origin subgroups?
+      * No, different statuses, languages, etc. affect determinants of health
+   * Are determinants of immigrant health comparable to the native born?
+      * All native born have come from mostly Western European origins. 
+   * How does the immigration experience affect assimilation?
+      * Context in sending and receiving country (welcome, stable economy, etc.)
+* Theories on Immigrant Assimilation
+   * health is just one of many assimilation outcomes
+   * three key factors determine degree and ease of assimilation
+      * individual traits (education, income, skills, language)
+      * social environment: sending and receiving country
+         * government policies (exclusion, acceptance, encouragement)
+         * attitude of native-born population (e.g. discrimination)
+         * presence of co-ethnics
+      * family structure
+* What We Know About Immigrant Health
+   * populations from diverse world regions
+   * on average, they arrive healthier than US-born
+   * on average, they lose health advantage over time
+   * but patterns vary across immigrant groups
+* Explanations
+   * Why do immigrants arrive healthy?
+      * selective migration
+      * cultural buffering, social support network
+      * lifestyle, at-risk behaviors are less
+   * Why happens over time with assimilation?
+      * advantage erodes w/ longer US residence
+         * discrimination 
+         * regression to the mean (you get older, man)
+      * increased risk-taking behaviors (poor diet)
+      * loss of protective factors (family support)
+* Other Explanations
+   * problems w/ research questions
+      * morbidity (cultural biases in self-reports)
+         * questions may not be valid translated, may not mean the same thing
+      * mortality (salmon hypothesis) JUMP JUMP MF
+   * cross-sectional data
+      * access to care increases w/ time
+      * newer immigrants may not have access
+      * reference group changes over time, self-reports are relative to others
+      * not Americanization, per se
+* Social Status and Health
+   * social status in origin and arrival
+   * social status = fundamental cause of health
+   * Link and Phelan 
+The Hispanic Health Paradox: New Evidence From Longitudinal Data on Second and Third-Generation Birth Outcomes by Giuntella
+
+
+* second-generation children of Mexican and Cuban origin have better birth outcomes than children of US-born white women
+* children of Puerto Rican origin have instead worse birth outcomes
+* advantage observed among second-generation Hispanics erodes substantially in the third generation but third-generation Mexicans retain some of it
+Mexican Immigrants in the US by Zong and Batalova 
+* four main stages of Mexican immigration
+   * WWII, agricultural workers recruited for private la
