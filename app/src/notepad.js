@@ -33,7 +33,10 @@ class Notepad extends Component{
           sent: this.state.editorState.getCurrentContent().getPlainText()
         }
       }).then(res => {
+        console.log('something happened')
         console.log(res.data)
+      }).catch((err) => {
+        console.log(err);
       });
     }
   }

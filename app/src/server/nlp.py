@@ -10,7 +10,7 @@ def read_files(folder):
     for f in os.listdir(folder):
         if f != '.DS_Store':
             path = folder + '/' + f
-            with open(path, 'r') as readFile:
+            with open(path, 'r', encoding='utf-8') as readFile:
                 text = readFile.read()
             notes[f] = text
     return notes
@@ -41,7 +41,6 @@ def create_new_file(name,txt,i):
 
 
 def find_top_doc(word, d):
-    results = []
     top_doc = ''
     max_freq = 0
     for key in d:
@@ -49,35 +48,42 @@ def find_top_doc(word, d):
         filtered_length = len(filtered_text)
         rel_freq = (filtered_text.count(word))/filtered_length
         if rel_freq > max_freq:
-            max_freq = rel_freq 
+            max_freq = rel_freq
             top_doc = key
     if max_freq == 0 or top_doc == '':
         print('NO MATCHES')
     else:
-        print('WORD', word, 
+        print('WORD', word,
               'DOCUMENT',top_doc,
               'RELATIVE FREQ', max_freq,
               '\n',d[top_doc], '\n','-'*80)
-        results.append((word, max_freq,top_doc, d[top_doc]))
-        results = sorted(results, key=itemgetter(1), reverse=True)
-        return results[0]
+
+    return (word, max_freq,top_doc, d[top_doc])
 
 
 
 def inputSent(sent, dict):
+    results = []
     stop_words = get_stop_words('english')
-    words = sent.split(' ')
+    words = sent.split('+')
     not_stop_words = [w for w in words if w not in stop_words]
     for x in not_stop_words:
-        find_top_doc(x,dict)
-
+        tup = find_top_doc(x,dict)
+        results.append(tup)
+    results = sorted(results, key=itemgetter(1), reverse=True)
+    return results[0]
 
 def preprocess(block):
     stop_words = get_stop_words('english')
-    noPunc = re.sub('[^a-zA-Z]',' ', block.lower()) 
+    noPunc = re.sub('[^a-zA-Z]',' ', block.lower())
     wlist = noPunc.split()
     filtered_words = [w.lower() for w in wlist if w not in stop_words]
     return filtered_words
+
+def initializeDict():
+    dataFolder = '../data'
+    notes = read_files(dataFolder)
+    return notes
 
 if __name__ == '__main__':
     dataFolder = 'data'
